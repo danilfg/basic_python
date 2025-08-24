@@ -8,16 +8,6 @@
 [![YouTube](https://img.shields.io/badge/YouTube-@aqa__pro-red?logo=youtube\&logoColor=white)](https://www.youtube.com/@aqa_pro)
 [![Telegram](https://img.shields.io/badge/Telegram-mentor__it__tech-blue?logo=telegram\&logoColor=white)](https://t.me/mentor_it_tech)
 
-## 🛠 Требования
-
-* Python 3.10+
-* Git
-
-## ✅ Планируется добавить
-
-* Домашние задания
-* Мини-проекты
-* Конспекты в формате PDF
 
 ## 🔗 Полезные ссылки
 
