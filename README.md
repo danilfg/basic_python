@@ -21,6 +21,7 @@
 
 ## 🔗 Полезные ссылки
 
+
 🔥 Видео раньше, чем на YouTube — [Boosty](https://boosty.to/aqa_pro)
 ▶️ Видео — [YouTube](https://www.youtube.com/@aqa_pro)
 🔗 Мой канал — [Telegram](https://t.me/mentor_it_tech)
