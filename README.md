@@ -22,12 +22,12 @@
 ## 🔗 Полезные ссылки
 
 
-🔥 Видео раньше, чем на YouTube — [Boosty](https://boosty.to/aqa_pro)
-▶️ Видео — [YouTube](https://www.youtube.com/@aqa_pro)
-🔗 Мой канал — [Telegram](https://t.me/mentor_it_tech)
-🔗 Python — [python.org](https://www.python.org/downloads/)
-🔗 Git — [git-scm.com](https://git-scm.com/)
-🔗 GitHub — [github.com](https://github.com/)
-🔗 Репозиторий с PyCharm — [pycharm](https://github.com/danilfg/pycharm)
-🔗 Репозиторий с материалами — [basic\_python](https://github.com/danilfg/basic_python)
-💬 Чат для общения и домашних заданий — [Telegram Chat](https://t.me/mentor_it_tech_group)
+* 🔥 Видео раньше, чем на YouTube — [Boosty](https://boosty.to/aqa_pro)
+* ▶️ Видео — [YouTube](https://www.youtube.com/@aqa_pro)
+* 🔗 Мой канал — [Telegram](https://t.me/mentor_it_tech)
+* 🔗 Python — [python.org](https://www.python.org/downloads/)
+* 🔗 Git — [git-scm.com](https://git-scm.com/)
+* 🔗 GitHub — [github.com](https://github.com/)
+* 🔗 Репозиторий с PyCharm — [pycharm](https://github.com/danilfg/pycharm)
+* 🔗 Репозиторий с материалами — [basic\_python](https://github.com/danilfg/basic_python)
+* 💬 Чат для общения и домашних заданий — [Telegram Chat](https://t.me/mentor_it_tech_group)
