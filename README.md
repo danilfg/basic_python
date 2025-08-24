@@ -29,5 +29,4 @@
 * 🔗 Git — [git-scm.com](https://git-scm.com/)
 * 🔗 GitHub — [github.com](https://github.com/)
 * 🔗 Репозиторий с PyCharm — [pycharm](https://github.com/danilfg/pycharm)
-* 🔗 Репозиторий с материалами — [basic\_python](https://github.com/danilfg/basic_python)
 * 💬 Чат для общения и домашних заданий — [Telegram Chat](https://t.me/mentor_it_tech_group)
